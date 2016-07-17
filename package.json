@@ -1,7 +1,7 @@
 {
-  "name": "angular2-webpack-starter",
+  "name": "ng2-todos",
   "version": "5.0.5",
-  "description": "An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Coverage), Karma, Protractor, Jasmine, Istanbul, TypeScript, and Webpack by AngularClass",
+  "description": "Simple TODO app based on angular2-webpack-starter with material2",
   "keywords": [
     "angular2",
     "webpack",
